@@ -1,4 +1,4 @@
-# Desafio Super Trunfo - Países
+# Desafio Super Trunfo - Países - Cadastro das Cartas
 
 Bem-vindo ao desafio "Super Trunfo - Países"! Este projeto consiste na criação de um jogo onde os jogadores comparam as propriedades das cartas de diferentes cidades para determinar qual é a mais forte. O desafio está dividido em três níveis: Novato, Aventureiro e Mestre. Cada nível adiciona complexidade ao desafio anterior, permitindo um aprendizado progressivo.
 
