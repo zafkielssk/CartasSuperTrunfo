@@ -1,9 +1,13 @@
 # ⚠️ Importante!!!
-Criamos um novo link para o primeiro desafio porque o link original estava com problema. Quem já realizou o cadastro continua conseguindo acessar o seu repositório e pode enviar o link original. No entanto, quem ainda não realizou o cadastro, deve utilizar o novo link.
+Criamos um novo link para o primeiro desafio porque o link original apresentou problemas. Quem já completou o desafio pode continuar usando o link original para enviar seu repositório. Se você ainda não começou o desafio, utilize o novo link.
 
 # Desafio Super Trunfo - Países - Cadastro das Cartas
 
-Bem-vindo ao desafio "Super Trunfo - Países"! Este projeto consiste na criação de um jogo onde os jogadores comparam as propriedades das cartas de diferentes cidades para determinar qual é a mais forte. O desafio está dividido em três níveis: Novato, Aventureiro e Mestre. Cada nível adiciona complexidade ao desafio anterior, permitindo um aprendizado progressivo.
+Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam as propriedades das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países," onde você comparará as propriedades das cidades.
+
+A empresa MateCheck contratou você para desenvolver a parte inicial do jogo, que consiste no cadastro das cartas.
+
+O desafio está dividido em três níveis: Novato, Aventureiro e Mestre, com cada nível adicionando mais complexidade ao anterior. Você deve escolher qual desafio quer realizar.
 
 ### 🚨 Atenção: 
 O nível Novato do desafio é focado apenas no cadastro das cartas, utilizando as funções scanf para ler os dados e printf para exibi-los.
@@ -72,7 +76,7 @@ No nível Mestre, você implementará comparações entre as cartas, utilizando 
 
 ---
 
-Ao concluir todos os níveis, você terá criado um sistema robusto para o jogo Super Trunfo, com funcionalidades avançadas de cadastro, cálculo e comparação de propriedades. 
+Ao concluir todos os níveis, você terá criado um sistema incial para o jogo Super Trunfo, com funcionalidades de cadastro, cálculo e comparação de propriedades. 
 
 Boa sorte e divirta-se programando!
 
