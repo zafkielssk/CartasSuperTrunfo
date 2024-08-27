@@ -1,6 +1,12 @@
+# ⚠️ Importante!!!
+Criamos um novo link para o primeiro desafio porque o link original estava com problema. Quem já realizou o cadastro continua conseguindo acessar o seu repositório e pode enviar o link original. No entanto, quem ainda não realizou o cadastro, deve utilizar o novo link.
+
 # Desafio Super Trunfo - Países - Cadastro das Cartas
 
 Bem-vindo ao desafio "Super Trunfo - Países"! Este projeto consiste na criação de um jogo onde os jogadores comparam as propriedades das cartas de diferentes cidades para determinar qual é a mais forte. O desafio está dividido em três níveis: Novato, Aventureiro e Mestre. Cada nível adiciona complexidade ao desafio anterior, permitindo um aprendizado progressivo.
+
+### 🚨 Atenção: 
+O nível Novato do desafio é focado apenas no cadastro das cartas, utilizando as funções scanf para ler os dados e printf para exibi-los.
 
 ## 🎮 Nível Novato
 
