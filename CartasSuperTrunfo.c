@@ -1,21 +1,20 @@
 #include <stdio.h>
 #include <string.h>
 
-// Estrutura para armazenar as informações da carta
 typedef struct {
     char estado[30];
     int codigo;
     char nome[50];
-    unsigned long int populacao; // Agora a população é unsigned long int
+    unsigned long int populacao; 
     float pib;
     float area;
     int pontos_turisticos;
     float densidade_populacional;
     float pib_per_capita;
-    float super_poder; // Adicionamos o campo super_poder
+    float super_poder; 
 } CartaCidade;
 
-// Função para calcular as propriedades derivadas da carta
+
 void calcularPropriedades(CartaCidade *cidade) {
     if (cidade->area > 0) {
         cidade->densidade_populacional = (float)cidade->populacao / cidade->area;
@@ -38,7 +37,7 @@ void calcularSuperPoder(CartaCidade *cidade) {
     }
 }
 
-// Função para cadastrar uma nova carta
+
 void cadastrarCarta(CartaCidade *cidade) {
     char buffer[100];
 
@@ -76,7 +75,7 @@ void cadastrarCarta(CartaCidade *cidade) {
     calcularSuperPoder(cidade);
 }
 
-// Função para exibir as informações da carta
+
 void exibirCarta(CartaCidade cidade) {
     printf("\n--- Carta da Cidade ---\n");
     printf("Estado: %s\n", cidade.estado);
@@ -91,7 +90,6 @@ void exibirCarta(CartaCidade cidade) {
     printf("Super Poder: %.2f\n", cidade.super_poder);
 }
 
-// Função para comparar duas cartas e exibir os resultados
 void compararCartas(CartaCidade carta1, CartaCidade carta2) {
     printf("\nComparacao de Cartas:\n");
 
